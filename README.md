@@ -1,4 +1,4 @@
-# devon4ng Application Template
+# Hotel management Portal
 
 This application utilizes @ngrx/store to manage the state of the app,@angular/router to manage navigation between routes, @ngrx/effects to isolate side effects. This project has been updated to **Angular 11** and uses the [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
